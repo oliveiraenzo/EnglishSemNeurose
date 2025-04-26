@@ -1,22 +1,22 @@
-# 🇧🇷 English Sem Neurose
+# 🇬🇧 English Sem Neurose
 
-Projeto social de ensino de inglês gratuito e lúdico para crianças em situação de vulnerabilidade.
+A social project offering free and playful English lessons to children in vulnerable communities.
 
-## 🌍 Objetivo
+## 🌍 Purpose
 
-Ensinar inglês de forma acolhedora e divertida para crianças entre 6 e 15 anos, com foco em empoderamento, criatividade e inclusão.
+To teach English in a welcoming and fun way to children aged 6 to 15, focusing on empowerment, creativity, and inclusion.
 
-## 📂 Conteúdo
+## 📂 Contents
 
-- Documentação do projeto
-- Planejamento de aulas
-- Apresentações institucionais
-- Materiais de apoio
+- Project documentation
+- Lesson planning
+- Institutional presentations
+- Support materials
 
-## 🤝 Como colaborar
+## 🤝 How to Collaborate
 
-Veja o arquivo [como-colaborar.md](./como-colaborar.md) para saber como você pode participar como voluntário, professor ou apoiador.
+Check out the [how-to-collaborate.md](./how-to-collaborate.md) file to learn how you can get involved as a volunteer, teacher, or supporter.
 
-## 📬 Contato
+## 📬 Contact
 
-Para mais informações, entre em contato pelo e-mail: englishsemneurose@exemplo.com
+For more information, contact us at: englishsemneurose@example.com
